@@ -1,0 +1,77 @@
+{
+  "name": "Wholegrain Rolled Oats",
+  "img": [
+      "organic-jumbo-rolled-oats-wholegrain-allergen-info-breakfast-foods-flours-grains-organic-bulk-foods-product-range-680x680.jpeg",
+      "Organic-rolled-oats-finland-bulk_CEOATR2.25__86965.1571289336.webp"
+  ],
+  "id": "coles-rolled-oats-wholegrain",
+  "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+  "likes": 0,
+  "videos": [],
+  "unLikes": 0,
+  "nutritionPer100g": {
+      "Energy": 1680,
+      "Protein": 13.3,
+      "Fat": 9.8,
+      "Saturated-fat": 1.7,
+      "Carbohydrate": 60.3,
+      "Sugars": 1.2,
+      "Dietary-fibre": 0.0086,
+      "Sodium": 7,
+      "Potassium": 313
+  },
+  "tags": [
+      "grain",
+      "carb"
+  ]
+}
+
+{
+    "name": "ManuraSanjula",
+    "email": "w.m.manurasanjula2003@gmail.com",
+    "password": "123456789",
+    "passwordConfirm": "123456789"
+}
+
+{
+    "review": "Godd Food",
+    "rating": 4,
+    "Food":"6055d748b38ee018f0886a1a",
+    "user": "6055d0efe1f8377f37e4fd12"
+},
+{
+    "FoodHutReview": "Good Hut",
+    "rating": 4,
+    "FoodHut": "6055db08b261e92bccccf9f9",
+    "user": "6055d0efe1f8377f37e4fd12"
+  }
+
+{
+    "Food":"601cc25cd8f57256d9fb5fe6",
+    "user": "601cc3349cee805a13a74a93"
+}
+
+{
+    "name":"FoodHutPanadura",
+    "summary":"Panadura Food Hut",
+    "description":"GoodHout",
+    "imageCover": 
+    "images": ,
+    "openAt":"8.00AM - 5.00PM" ,
+    "Location": {
+        "description": "California, USA",
+        "type": "Point",
+        "coordinates": [-122.29286, 38.294065],
+        "address": "560 Jefferson St, Napa, CA 94559, USA"
+      },
+    "foodOffer": ["6055d748b38ee018f0886a1a"],
+    "chefs": [
+        "601cc3349cee805a13a74a93"
+    ],
+},
+
+"user":"602d525d3819f26ea7eaaa19",
+"Food": "601cc25cd8f57256d9fb5fe6",
+"price": 33,
+"quantity": 4,
+"why": "Bad",
